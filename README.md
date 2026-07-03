@@ -1,4 +1,6 @@
+<p align="center">
 # Hi 👋, I'm Abhay Kharat
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Software+Engineer;Java+Full+Stack+Developer;Spring+Boot+%7C+React.js+Developer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
