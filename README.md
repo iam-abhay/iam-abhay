@@ -83,25 +83,24 @@ HTML • CSS • JavaScript
 
 # 📊 GitHub Statistics
 
+<h2 align="center">📊 GitHub Stats</h2>
+
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=iam-abhay&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-abhay&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=iam-abhay&show_icons=true" />
 </p>
 
 ---
 
 # 🔥 GitHub Streak
 
+<h2 align="center">🔥 GitHub Streak</h2>
+
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=iam-abhay&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=iam-abhay" />
 </p>
 
 ---
+
 
 # 🏆 Certifications
 
