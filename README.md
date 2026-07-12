@@ -96,7 +96,7 @@ HTML • CSS • JavaScript
 <h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=iam-abhay&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=iam-abhay" />
 </p>
 
 ---
